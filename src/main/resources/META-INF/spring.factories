@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.runjing.runjingbeancopy.orika.spring.SpringFetchBeanHolder,\
+  com.runjing.runjingbeancopy.orika.service.BeanCopyService
+
